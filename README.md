@@ -3,4 +3,4 @@ Questions and answers:
 - HTML
 - CSS
 - Java Script
-https://okara4inceva.github.io/Assignments/
+https://okara4inceva.github.io/Assignments-HTML-CSS-JS/
